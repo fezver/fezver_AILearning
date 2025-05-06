@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Fez AI Core — Powered by GrokxAI API</h1>
+<h1 align="center">Fez AI Core — Powered by GrokxAI API</h1>
 
 <p align="center">
   <i>“Building intelligence with intention.”</i>
@@ -50,7 +50,7 @@ To run this project locally:
 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/fezver/fez-ai-core.git
+git clone https://github.com/fezver/fezver_Ailearning.git
 cd fez-ai-core
 
 2. Install dependencies
